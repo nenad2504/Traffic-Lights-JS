@@ -1,0 +1,43 @@
+* {
+    margin: 0; padding: 0; box-sizing: border-box;
+}
+
+
+#semafor {
+    width: 180px;
+    height: 400px;
+    border: 1px solid gray;
+    border-radius: 20%;
+    margin: auto;
+    margin-top: 50px;
+    background-color: rgb(32, 32, 32);
+}
+
+.boje {
+    width: 100px;
+    height: 100px;
+    border: 1px solid gray;
+    border-radius: 50%;
+    margin-left: 38px;
+    margin-top: 18px;
+}
+
+#semafor2 {
+    width: 180px;
+    height: 400px;
+    border: 1px solid gray;
+    border-radius: 20%;
+    margin: auto;
+    margin-top: 50px;
+    background-color: rgb(32, 32, 32);
+}
+
+.boje2 {
+    width: 100px;
+    height: 100px;
+    border: 1px solid gray;
+    border-radius: 50%;
+    margin-left: 38px;
+    margin-top: 18px;
+}
+
